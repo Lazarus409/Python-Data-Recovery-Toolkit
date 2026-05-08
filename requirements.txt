@@ -1,0 +1,22 @@
+# Python Data Recovery Toolkit Requirements
+
+# No external dependencies required for core functionality
+# All modules use Python standard library
+
+# Optional dependencies for extended functionality:
+# For GUI interface (future):
+# PyQt5>=5.15.0
+# PySimpleGUI>=4.60.0
+
+# For advanced image recovery (future):
+# Pillow>=8.0.0
+# OpenCV-python>=4.5.0
+
+# For PDF recovery (future):
+# pypdf2>=1.26.0
+# pdfminer.six>=20201018
+
+# For development and testing:
+# pytest>=6.0.0
+# black>=21.0
+# flake8>=3.9.0
